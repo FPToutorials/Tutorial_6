@@ -1,0 +1,10 @@
+id: file:///C:/Users/USER/Documents/UCSC/2nd%20Year-%201st%20Semester/SCS-2204_Functional%20Programming/Tutorial_6/Q1.scala:[77..78) in Input.VirtualFile("file:///C:/Users/USER/Documents/UCSC/2nd%20Year-%201st%20Semester/SCS-2204_Functional%20Programming/Tutorial_6/Q1.scala", "object Q1{
+    def main(args: Array[String]) : Unit ={
+
+    }
+
+    def
+}")
+file:///C:/Users/USER/Documents/UCSC/2nd%20Year-%201st%20Semester/SCS-2204_Functional%20Programming/Tutorial_6/Q1.scala:7: error: expected identifier; obtained rbrace
+}
+^
